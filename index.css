@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    color: #c87941;
+    background-color: #dbcbbd;
+   
+}
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    color: black;
+}
+.line {
+    border: dotted black 10px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+
+.discription {
+    font-size: 50px;
+}
+.topcontainer {
+    background-color: #dbcbbd;
+    position: relative;
+    padding-top: 100px;
+    font-family: initial;
+}
+.middlecontainer {
+    background-color: darkseagreen;
+    width: 200px;
+    height: 200px;
+    padding: 100px 0;
+}
+.bottomcontainer {
+    background-color: #3d060f;
+    width: 200px;
+    height: 200px;
+    
+}
+.bottomcloud {
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.topcloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+h3 {
+    color: goldenrod;
+}
+h2 {
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.skillsrow {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+  
+}
+.monalisa {
+    width: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.ronaldo {
+    width: 50%;
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+    background: #d95a34;
+    background-image: -webkit-linear-gradient(top, #d95a34, #3d060f);
+    background-image: -moz-linear-gradient(top, #d95a34, #3d060f);
+    background-image: -ms-linear-gradient(top, #d95a34, #3d060f);
+    background-image: -o-linear-gradient(top, #d95a34, #3d060f);
+    background-image: linear-gradient(to bottom, #d95a34, #3d060f);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+   margin-bottom: 10px;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  a {
+      color: #dbcbbd;
+      margin: 10px 20px;
+      text-decoration: none;
+  }
+  a:hover {
+      color: burlywood;
+  }
+
+
+.contactme {
+    background-color: wheat;
+}
+.profilepic {
+    padding-top: 10px;
+}
+p {
+    line-height: 2;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.challenge {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.bottomsection {
+    padding: 50px 0 20px;
+    background-color: #3d060f;
+}
+.linebreak {
+    border: none;
+    height: 40px;
+    background: #3d060f;
+}
